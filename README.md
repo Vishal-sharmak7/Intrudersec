@@ -50,7 +50,7 @@ We provide **expert-led, hands-on learning** through real-world labs, tools, and
 - Framer Motion
 - React Router DOM
 - Axios
-- AOS Animations
+- AOS Animation
 
 ### Backend
 - Node.js
