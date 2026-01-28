@@ -79,7 +79,7 @@ const UserAuth = ({ isOpen, onClose }) => {
     localStorage.setItem("userId", data._id);
     localStorage.setItem("name", data.name);
     localStorage.setItem("email", data.email);
-    localStorage.setItem("role", data.role);
+    
 
     toast.success("Login successful 🚀");
 
